@@ -407,7 +407,6 @@ contract EscrowCollection is ISimpleEscrow{
         // Link seller wallet to deal id 
         sellerDealsMap[_DealDetails.sellerWallet][_DealDetails.sellerCount] = _uniqueId;
 
-
     }
 
 }
