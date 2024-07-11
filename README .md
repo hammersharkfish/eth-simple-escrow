@@ -1,5 +1,5 @@
 
-# An Ethereum based escroow system
+# An Ethereum based escrow system
 
 ## Introduction
 
